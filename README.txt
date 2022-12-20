@@ -1,0 +1,1 @@
+Remember to add/insert own API key for the google maps API key
